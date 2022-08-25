@@ -1,0 +1,10 @@
+.home-bloc{
+    display: block;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    color: rgb(195, 58, 58);
+    margin: 1em;
+}
